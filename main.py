@@ -1,7 +1,11 @@
+import streamlit as st
+
+
+
 def main():
-    print("Hello from transfermarkt-fv!")
+    st.write("Hello from transfermarkt-fv!")
 
 
 if __name__ == "__main__":
     main()
-    
+
