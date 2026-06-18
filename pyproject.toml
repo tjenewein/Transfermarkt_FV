@@ -5,5 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+<<<<<<< HEAD
     "streamlit>=1.58.0",
+=======
+    "datetime>=6.0",
+>>>>>>> 19bf6d9003b7da67364472762077e5158148aebb
 ]
